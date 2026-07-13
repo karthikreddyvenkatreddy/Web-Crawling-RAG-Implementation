@@ -12,7 +12,8 @@ from rag_api import RAGPipeline
 URL = "https://www.bankofamerica.com/credit-cards/"
 JSON_BACKUP = "bofa_cards_raw_backup.json"
 
-vector_store = CreditCardVectorStoreIndex()
+db_path = os.path.abspath("./local_chroma_db")
+vector_store = CreditCardVectorStoreIndex(db_directory=db_path)
 rag_system = RAGPipeline(vector_store)
 
 async def initialize_and_build_pipeline():
@@ -62,10 +63,6 @@ async def initialize_and_build_pipeline():
     vector_store.build_index_from_json(final_cleaned_data)
     print("\nRAG Backend Core Engine Initialized Successfully!")
 
-# Execute Local Startup Initializations
-print("Launching local pipeline framework setup...")
-asyncio.run(initialize_and_build_pipeline())
-
 # Define UI Panel
 app_interface = gr.Interface(
     fn=rag_system.answer_query,
@@ -77,4 +74,11 @@ app_interface = gr.Interface(
 )
 
 if __name__ == "__main__":
+    print("Launching local pipeline framework setup...")
+    
+    # Run the async database check/build inside the existing loop before launching the UI
+    loop = asyncio.get_event_loop()
+    loop.run_until_complete(initialize_and_build_pipeline())
+    
+    # Launch Gradio server application
     app_interface.launch()
