@@ -1,0 +1,263 @@
+[
+    {
+        "card_name": "Bank of America Customized Cash Rewards credit card",
+        "category": "Cash Back",
+        "features": "3% cash back + 3% first-year cash back bonus in the category of your choice, automatic 2% cash back at grocery stores and wholesale clubs and unlimited 1% cash back on all other purchases",
+        "benefits": "6% cash back in the category of your choice for the first year, $200 online cash rewards bonus offer",
+        "rates_fees": "0% Intro APR for the first 15 billing cycles for purchases, and for any balance transfers made within the first 60 days of opening your account. After the intro APR offer ends, a Variable APR that's currently 17.49% to 27.49% will apply. 3% Intro balance transfer fee for the first 60 days your account is open. After the intro balance transfer fee offer ends, the fee for all future balance transfers is 5%",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/cash-back-credit-card/?campaign=4079538~DY~en_US",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Unlimited Cash Rewards credit card",
+        "category": "Cash Back",
+        "features": "Unlimited 2% cash back on purchases for the first year, unlimited 1.5% cash back on all purchases after",
+        "benefits": "0% Intro APR for your first 15 billing cycles for purchases, and for any balance transfers made within the first 60 days of opening your account, $200 online cash rewards bonus offer",
+        "rates_fees": "Variable APR that's currently 17.49% to 27.49%, 3% intro balance transfer fee for the first 60 days, 5% balance transfer fee after intro period",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "BankAmericard\u00ae credit card",
+        "category": "Balance Transfer",
+        "features": "0% Intro APR for 21 billing cycles for purchases, and for any balance transfers made in the first 60 days",
+        "benefits": "No Penalty APR, $0 Liability Guarantee",
+        "rates_fees": "No annual fee, Variable APR that's currently 14.99% - 25.99%, 5% fee applies to all balance transfers",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/bankamericard-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "BankAmericard credit card",
+        "category": "Balance Transfer",
+        "features": "No Penalty APR, $0 Liability Guarantee",
+        "benefits": "No annual fee, 0% Intro APR for 15 billing cycles",
+        "rates_fees": "Variable APR that's currently 17.49% to 27.49%, 3% Intro balance transfer fee",
+        "product_url": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079405&productOfferCode=5F&locale=en_US",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America Travel Rewards credit card",
+        "category": "Travel Rewards",
+        "features": "Earn unlimited 1.5 points for every $1 you spend, Earn 3 points for every $1 you spend on travel purchases booked through the Bank of America Travel Center",
+        "benefits": "25,000 online bonus points offer \u2013 a $250 value, No annual fee, No foreign transaction fees",
+        "rates_fees": "0% Intro APR for 15 billing cycles, Variable APR that's currently 17.49% to 27.49%, 3% Intro balance transfer fee",
+        "product_url": "https://secure.bankofamerica.com/ogateway/public/apply-now-services/iaoconsumer/rest/public/usa/initialize/cc/v1?requesttype=usa&campaignId=4079333&productOfferCode=75&locale=en_US",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Travel Rewards credit card",
+        "category": "Travel Rewards",
+        "features": "Earn unlimited 1.5 points for every $1 you spend on all purchases everywhere, every time and no expiration on points as long as your account remains open",
+        "benefits": "25,000 online bonus points offer \u2013 a $250 value, 0% Intro APR for your first 15 billing cycles for purchases, and for any balance transfers made within the first 60 days of opening your account",
+        "rates_fees": "No annual fee, no foreign transaction fees, 3% Intro balance transfer fee for the first 60 days your account is open, Variable APR that's currently 17.49% to 27.49% after the intro APR offer ends",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-credit-card/?campaign=4079332~92~en_US",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Premium Rewards\u00ae credit card",
+        "category": "Travel Rewards",
+        "features": "Earn unlimited points for every $1 you spend on all purchases everywhere, every time and no expiration on points as long as your account remains open",
+        "benefits": "60,000 online bonus points offer \u2014 a $600 value, Low $95 annual fee, no foreign transaction fees",
+        "rates_fees": "Low $95 annual fee, no foreign transaction fees",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-credit-card/?campaign=4079485~UN~en_US",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America Premium Rewards Elite credit card",
+        "category": "Travel Rewards",
+        "features": "Earn unlimited 2 points for every $1 spent on travel and dining purchases, and unlimited 1.5 points for every $1 spent on all other purchases",
+        "benefits": "Get up to $570 in combined Airline Incidental, TSA PreCheck/Global Entry, and Lifestyle Statement Credits",
+        "rates_fees": "$550 annual fee and no foreign transaction fees",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/premium-rewards-elite-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Customized Cash Rewards credit card for Students",
+        "category": "Cash Back, Student",
+        "features": "3% cash back + 3% first-year cash back bonus in the category of your choice, automatic 2% cash back at grocery stores and wholesale clubs and unlimited 1% cash back on all other purchases",
+        "benefits": "6% cash back in the category of your choice for the first year, $200 online cash rewards bonus offer",
+        "rates_fees": "0% Intro APR for your first 15 billing cycles for purchases, and for any balance transfers made within the first 60 days of opening your account. No annual fee",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\\u00ae Customized Cash Rewards credit card for Students",
+        "category": "Student, Cash Back",
+        "features": "Earn cash back on purchases",
+        "benefits": "$200 online cash rewards bonus after making at least $1,000 in purchases in the first 90 days of your account opening",
+        "rates_fees": "0% Intro APR for your first 15 billing cycles for purchases, and for any balance transfers made within the first 60 days of opening your account. After the intro APR offer ends, a Variable APR that's currently 17.49% to 27.49% will apply. 3% Intro balance transfer fee for the first 60 days your account is open. After the intro balance transfer fee offer ends, the fee for all future balance transfers is 5%",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/student-cash-back-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\\u00ae Unlimited Cash Rewards credit card for Students",
+        "category": "Student, Cash Back",
+        "features": "Earn unlimited 2% cash back on purchases for the first year from account opening, with no limit to the amount of cash back you can earn. Thereafter, you'll earn unlimited 1.5% cash back on all purchases, with no expiration on rewards as long as your account remains open",
+        "benefits": "Online $200 cash rewards bonus after making at least $1,000 in purchases in the first 90 days of your account opening",
+        "rates_fees": "0% Intro APR for your first 15 billing cycles for purchases, and for any balance transfers made within the first 60 days of opening your account. After the intro APR offer ends, a Variable APR that's currently 17.49% to 27.49% will apply. 3% Intro balance transfer fee for the first 60 days your account is open. After the intro balance transfer fee offer ends, the fee for all future balance transfers is 5%",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-student-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Unlimited Cash Rewards credit card for Students",
+        "category": "Cash Back, Student",
+        "features": "Unlimited Cash Rewards",
+        "benefits": "Intro APR for 15 billing cycles, 3% intro balance transfer fee for the first 60 days",
+        "rates_fees": "Variable APR of 17.49% to 27.49%, 5% balance transfer fee after intro period",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-student-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "BankAmericard\u00ae Credit Card for Students",
+        "category": "Balance Transfer, Student",
+        "features": "0% Intro APR for 21 billing cycles",
+        "benefits": "0% Intro APR for 21 billing cycles, $0 Liability Guarantee, chip technology",
+        "rates_fees": "Variable APR of 14.99% - 25.99%, 5% balance transfer fee",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/low-interest-student-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Travel Rewards Credit Card for Students",
+        "category": "Travel Rewards, Student",
+        "features": "Earn unlimited 1.5 points for every $1 spent, Earn 3 points for every $1 spent on travel purchases booked through the Bank of America Travel Center",
+        "benefits": "25,000 online bonus points after making at least $1,000 in purchases in the first 90 days, 0% Intro APR for the first 15 billing cycles",
+        "rates_fees": "Variable APR that's currently 17.49% to 27.49%, 3% Intro balance transfer fee for the first 60 days",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/student-rewards-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Cash Rewards Credit Card",
+        "category": "Cash Back, Secured",
+        "features": "No specific reward multipliers mentioned",
+        "benefits": "No specific benefits mentioned",
+        "rates_fees": "No specific rates or fees mentioned",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/cash-back-secured-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Customized Cash Rewards secured credit card",
+        "category": "Cash Back, Secured",
+        "features": "3% cash back + 3% first-year cash back bonus in the category of your choice, 2% cash back at grocery stores and wholesale clubs, unlimited 1% cash back on all other purchases",
+        "benefits": "Build up your credit history, no annual fee, security deposit ($200-$5,000)",
+        "rates_fees": "Variable APR that's currently 27.49%",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/cash-back-secured-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Unlimited Cash Rewards secured credit card",
+        "category": "Cash Back",
+        "features": "Earn unlimited 2% cash back on purchases for the first year from account opening, earn unlimited 1.5% cash back on all purchases thereafter",
+        "benefits": "First-year 0.5% bonus",
+        "rates_fees": "No annual fee, Variable APR that's currently 27.49%",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/unlimited-cash-back-secured-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "BankAmericard\u00ae secured credit card",
+        "category": "Secured Credit Card",
+        "features": "Help establish, strengthen - or even rebuild your credit",
+        "benefits": "No sign-up offers or perks mentioned",
+        "rates_fees": "No annual fee, Variable APR that's currently not specified",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/secured-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "BankAmericard\u00ae Secured",
+        "category": "Secured Credit Card",
+        "features": "No annual fee, Tap to Pay",
+        "benefits": "Help establish, strengthen - or even rebuild your credit",
+        "rates_fees": "Variable APR that's currently 25.99%",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/secured-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Travel Rewards Visa\u00ae Secured",
+        "category": "Travel Rewards Secured Credit Card",
+        "features": "Earn unlimited 1.5 points for every $1 you spend, Earn 3 points for every $1 you spend on travel purchases booked through the Bank of America Travel Center",
+        "benefits": "No annual fee, no foreign transaction fees, unlimited points with no expiration",
+        "rates_fees": "Variable APR, no annual fee",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-secured-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Bank of America\u00ae Travel Rewards Visa\u00ae secured credit card",
+        "category": "Secured Credit Card",
+        "features": "Build up your credit history \u2014 use this card responsibly and over time it could help you improve your credit score",
+        "benefits": "You may qualify to have your security deposit returned if you have demonstrated responsible credit behavior",
+        "rates_fees": "Variable APR that's currently 27.49% will apply",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/travel-rewards-secured-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Atmos\u2122 Rewards Ascent Visa Signature\u00ae Credit Card",
+        "category": "Travel Rewards",
+        "features": "Earn unlimited 3 points for every $1 spent on eligible Alaska Airlines and Hawaiian Airlines purchases, Earn unlimited 2 points for every $1 spent on eligible gas, EV charging station, cable, streaming services and local transit purchases",
+        "benefits": "Get 70,000 bonus points and a $99 Companion Fare (plus taxes and fees from $23) with this offer, Free checked bag and preferred boarding for you and up to 6 guests on the same reservation",
+        "rates_fees": "Annual fee $95, Variable APR that's currently 19.49% to 27.49% will apply",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Atmos\u2122 Rewards Summit Visa Infinite\u00ae Credit Card",
+        "category": "Travel Rewards",
+        "features": "Earn unlimited 3 points for every $1 spent on eligible dining, foreign transaction, Alaska Airlines and Hawaiian Airlines purchases. Earn unlimited 1 point for every $1 spent on all other purchases. Plus, earn a 10% rewards bonus on all points earned from card purchases if you have an eligible Bank of America\u00ae account.",
+        "benefits": "80,000 bonus points, 25,000-point Global Companion Award for a travel companion on the same itinerary, 10,000 status points, 8 Alaska Lounge passes every calendar year, Free checked bag and preferred boarding for you and up to 6 guests on the same reservation",
+        "rates_fees": "$395 annual fee and no foreign transaction fees, Purchase Rate Variable APR that's currently 19.49% to 27.49%",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/alaska-airlines-infinite-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Royal ONE\u2122 Visa Signature\u00ae Credit Card",
+        "category": "Travel Rewards",
+        "features": "Earn points redeemable for onboard credit or cruise discounts",
+        "benefits": "45,000 bonus points, redeemable for $450 in onboard credit or cruise discounts",
+        "rates_fees": "No annual fee and no foreign transaction fees",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/royal-one-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Royal ONE Plus\u2122 Visa Signature\u00ae Credit Card",
+        "category": "Travel Rewards",
+        "features": "Earn 4 points per dollar spent on eligible Royal Caribbean\u00ae, Celebrity Cruises\u00ae and Silversea\u00ae purchases, Earn 2 points per dollar spent on eligible airline, hotel, dining, grocery, gas and EV charging station purchases and 1 point per dollar spent on all other purchases",
+        "benefits": "Get 70,000 bonus points, redeemable for $700 in onboard credit or cruise discounts, after spending $3,000 on purchases within the first 90 days of account opening",
+        "rates_fees": "Low $99 annual fee, no foreign transaction fees, Variable APR currently 17.49% to 27.49%",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/royal-one-plus-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Susan G. Komen\u00ae Customized Cash Rewards credit card",
+        "category": "Cash Back",
+        "features": "6% cash back in the category of your choice \u2013 for the first year, automatic 2% cash back at grocery stores and wholesale clubs and unlimited 1% cash back on all other purchases",
+        "benefits": "$200 online cash rewards bonus offer, help fight breast cancer",
+        "rates_fees": "No annual fee, 0% Intro APR for your first 15 billing cycles for purchases, and for any balance transfers made within the first 60 days of opening your account. After the intro APR offer ends, a Variable APR that's currently 17.49% to 27.49% will apply",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/susan-komen-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Allways Rewards Visa card",
+        "category": "Travel Rewards",
+        "features": "3 points per $1 spent on Allegiant purchases, 2 points per $1 spent on qualifying dining purchases, 1 point per $1 spent on all other purchases",
+        "benefits": "30,000 Bonus Points, equal to $300 off a future Allegiant trip",
+        "rates_fees": "Low $59 annual fee, no foreign transaction fees, Variable APR of 19.49% to 27.49%",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/allegiant-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Air France KLM Visa Signature Credit Card",
+        "category": "Travel Rewards",
+        "features": "Earn 3 Miles for every $1 spent on eligible Air France, KLM Royal Dutch Airlines and",
+        "benefits": "50,000 Bonus Miles + 100 Experience Points (XP) after you make $2,000 or more in purchases within the first 90 days of your account opening",
+        "rates_fees": "Low $89 annual fee, no foreign transaction fees",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/air-france-credit-card/",
+        "data_source": "credit-card-landing-page"
+    },
+    {
+        "card_name": "Norwegian Cruise Line World Mastercard",
+        "category": "Travel Rewards",
+        "features": "Earn 3 WorldPoints points per $1 spent on Norwegian purchases, 2 WorldPoints points per $1 spent on eligible air and hotel purchases and 1 WorldPoints point per $1 spent on all other purchases",
+        "benefits": "Online Offer: 20,000 bonus points after you make $1,000 or more in purchases in the first 90 days of account opening. That's enough for a $200 onboard credit or $200 off your next Norwegian cruise.",
+        "rates_fees": "Purchase Rate Variable APR that's currently 17.49% to 27.49% will apply. No annual fee and no foreign transaction fees.",
+        "product_url": "https://www.bankofamerica.com/credit-cards/products/norwegian-cruise-lines-credit-card/",
+        "data_source": "credit-card-landing-page"
+    }
+]
